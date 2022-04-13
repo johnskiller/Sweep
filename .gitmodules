@@ -1,0 +1,9 @@
+[submodule "Sweep-half-swept-2040/keyswitches.pretty"]
+	path = Sweep-half-swept-2040/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty.git
+[submodule "Sweep-half-swept-2040/Sweep-half-swept-2040/rp-pico"]
+	path = Sweep-half-swept-2040/Sweep-half-swept-2040/rp-pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico.git
+[submodule "Sweep-half-swept-2040/rp-pico"]
+	path = Sweep-half-swept-2040/rp-pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico.git

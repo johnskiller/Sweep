@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "KBDSwitch")(type "KiCad")(uri "${KIPRJMOD}/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "pipico")(type "KiCad")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "pcbart")(type "Legacy")(uri "${KIPRJMOD}/")(options "")(descr "")(disabled))
+  (lib (name "Sweep-half-swept-2040")(type "KiCad")(uri "/Users/john/Projects/Sweep/Sweep-half-swept-2040")(options "")(descr ""))
+)
